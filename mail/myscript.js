@@ -1,4 +1,8 @@
-var mail = ["simone@gmail.com", "marco@gmail.com", "davide@gmail.com"];
+var mail = ["simone@gmail.com", "marco@gmail.com", "davide@gmail.com", "helton@gmail.com"];
+
+mail.push('cane@gmail.com');
+
+//console.log(mail);
 
 var miaMail = prompt("Inserisci la tua mail per confermare che sia nella lista");
 
