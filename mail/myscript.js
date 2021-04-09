@@ -3,7 +3,7 @@ var mail = ["simone@gmail.com", "marco@gmail.com", "davide@gmail.com"];
 var miaMail = prompt("Inserisci la tua mail per confermare che sia nella lista");
 
 var contaMail = mail.length;
-console.log(contaMail);
+// console.log(contaMail);
 
 var presenzaInLista = false;
 
